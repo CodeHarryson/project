@@ -1,0 +1,18 @@
+{
+  "name": "banking-chatbot",
+  "version": "1.0.0",
+  "description": "A beginner-friendly banking FAQ chatbot built with React and Vite",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.3.1"
+  }
+}
